@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/chuyenmcicts/static/css/main.31d6cfe0.css",
-    "main.js": "/chuyenmcicts/static/js/main.52d76c17.js",
-    "index.html": "/chuyenmcicts/index.html",
-    "main.52d76c17.js.map": "/chuyenmcicts/static/js/main.52d76c17.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.52d76c17.js",
+    "index.html": "/index.html",
+    "main.52d76c17.js.map": "/static/js/main.52d76c17.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
