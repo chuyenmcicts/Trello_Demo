@@ -7,12 +7,12 @@ function Card(props) {
 
   return (
     <>
-      <li className="card-item">
+      <div className="card-item">
         {card.cover && (
           <img className="card-cover" src={card.cover} alt="demo" />
         )}
         {card.title}
-      </li>
+      </div>
     </>
   );
 }
